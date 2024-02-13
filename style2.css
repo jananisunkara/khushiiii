@@ -1,0 +1,7 @@
+*{padding: 0;margin: 0;}
+.container{height: 100vh;
+            width: 100vw;
+            color:#444;
+            background: url("https://i.pinimg.com/originals/29/05/2c/29052c3523be63470cd766400462511b.jpg") center/cover no-repeat;
+            text-align: center}
+.yes h2{color: red;}
